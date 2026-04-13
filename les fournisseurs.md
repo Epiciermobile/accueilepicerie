@@ -40,3 +40,7 @@ C'est réparti, selon les propositions et les besoins:
 [Euréca](https://www.eureca-centrale.fr/)
 
 [ReVIVRE](https://revivre-monde.org/revivre-auvergne-rhone-alpes) 
+
+# Les Oeufs #
+
+Qui vole un œuf vole [Le bon œuf est dans le pré](https://www.facebook.com/people/Le-BonOeuf-est-dans-le-pr%C3%A9/100063788010294/#) ! C'est tellement près qu'ils viennent en roulant :-) 
