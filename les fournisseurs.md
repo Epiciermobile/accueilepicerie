@@ -11,7 +11,7 @@ Du bon du frais avec [Les serres de la Mollière](https://lesserresdelamolliere.
 
 Du bon du frais aussi, mais en chantier d'insertion: [Les jardins du Mont Vaudois](https://jardinsdumontvaudois.cocagnebio.fr/)
 
-MIAM
+MIAM mais il n'y a pas de lien :-(
 
 # Viandes #
 
