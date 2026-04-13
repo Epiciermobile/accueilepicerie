@@ -1,5 +1,5 @@
 ---
-title: "Les fournisseurs"
+title: "# Les fournisseurs #"
 order: 1
 in_menu: true
 ---
