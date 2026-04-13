@@ -1,6 +1,6 @@
 ---
 title: "Liens utiles (vers les documents, aussi)"
-order: 1
+order: 2
 in_menu: true
 ---
 Documents:
