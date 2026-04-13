@@ -29,7 +29,7 @@ Une autre partie vient du [Tuyé de Mesandans](https://www.letuyedemesandans.fr/
 
 Elles viennent toutes du [Moulin Thuriot](https://moulin-thuriot.fr/), fondé en 1730 mais ils ont fini par remplacer certaines machines.
 
-# Fromages #
+# Produits laitiers #
 
 C'est du coin c'est [Lehmann](https://fromagerie-lehmann.fr/)
 
