@@ -24,7 +24,7 @@ L’objectif est d’apporter un “coup de pouce” financier pour avancer sur 
 Un dossier est constitué avec le travailleur social, à partir de vos ressources, de vos charges et de votre situation.
 Il permet de déterminer votre reste à vivre, généralement situé entre 2,5 € et 9 € par jour et par personne, afin de proposer un accompagnement adapté.
 Chaque situation est étudiée avec un travailleur social référent ou directement sur l’épicerie mobile.
-_____________________________________
+___
 **Un accompagnement humain et accessible :**
 Un travailleur social est présent sur l’ESSM pour accueillir, écouter et orienter. Il peut vous accompagner dans vos premières démarches, en toute simplicité.
 
@@ -32,7 +32,7 @@ Un travailleur social est présent sur l’ESSM pour accueillir, écouter et ori
 
 🎯 Des ateliers seront également organisés au cours de l’année dans certaines communes (alimentation, budget, emploi, etc.).
 
-__________________________________________________
+___
 (Envie de vous engager ?
 Vous pouvez aussi participer à cette aventure solidaire en devenant bénévole.
 Votre aide est précieuse pour faire vivre ce projet et renforcer les solidarités locales). 
