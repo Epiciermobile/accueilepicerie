@@ -10,7 +10,7 @@ Vous trouverez, dans les menus (en haut et en bas de page) les contacts, nos par
 
 Notre épicerie sociale et solidaire mobile (ESSM) est ouverte à tous et propose des produits du quotidien à prix accessibles.
 Le volet solidaire permet à chacun de consommer à prix réduit tout en soutenant le projet.
-Le volet social accompagne les personnes ayant besoin d’un soutien financier ponctuel pour avancer sur leurs démarches.
+Le volet social accompagne les personnes ayant besoin d’un soutien financier ponctuel pour avancer sur leurs démarches. [Plus d'information par là](https://epiciermobile.github.io/accueilepicerie/l'epicerie.html)
 
 
 <a href="https://epiciermobile.github.io/epiceriemobilebelfort/" class="bouton">En cliquant ici, retrouvez LA LISTE DE NOS PRODUITS ET DE NOS TARIFS</a>
