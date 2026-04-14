@@ -1,5 +1,5 @@
 ---
-title: "L'épicerie elle-même"
+title: "L'épicerie"
 order: 6
 in_menu: true
 ---
