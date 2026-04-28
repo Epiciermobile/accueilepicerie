@@ -5,7 +5,7 @@ in_menu: true
 ---
 Bon, clairement, il ne faut pas se mettre martel en tête: il n'est pas possible de manger tout le temps bio, local, de saison, équilibré, mitonné avec soin, etc. Ce qui n'oblige pas non plus à se polluer l'organisme volontairement.
 
-En attendant d'y voir plus clair, voici déjà quelques liens bien fichus et bien renseignés, ce qui ne gâche rien:
+On n'est pas là pour vous convaincre mais pour vous renseigner, et afin d'y voir plus clair, voici déjà quelques liens bien fichus et bien renseignés, ce qui ne gâche rien:
 
 Le fameux [MangerBouger](https://www.mangerbouger.fr/) de Santé publique France. Franchement il est pas mal. 
 
